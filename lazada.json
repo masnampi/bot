@@ -5,11 +5,11 @@
 	"fakeProduct":"https://www.lazada.co.id/products/xiaomi-mi-band-2-hitam-i160040722-s181911845.html",
 	"target":[
 		{
-			"item":"406855876>449545179",
+			"itemID":"406855876>449545179",
 			"priceUnder":5000000
 		},
 		{
-			"item":"406855876>449545179",
+			"itemID":"406855876>449545179",
 			"priceUnder":5000000
 		}
 	]
