@@ -2,6 +2,10 @@
 	"mode":"idle",
 	"orderQty":2,
 	"autoconfirm":false,
+	"target":{
+		"itemID":"406855876",
+		"skuID":"449545179"
+	}
 }
 
 /*
