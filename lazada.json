@@ -1,1 +1,19 @@
-{"mode":"idle","orderQty":2,"headless":true,"autoConfirm":false,"fakeProduct":"https://www.lazada.co.id/products/xiaomi-mi-band-2-hitam-i160040722-s181911845.html","target":[{"itemID":"406855876>449545179","itemURL":"","priceUnder":5000000},{"itemID":"406855876>449545179","itemURL":"","priceUnder":5000000}]}
+{
+  "mode": "idle",
+  "orderQty": 2,
+  "headless": true,
+  "autoConfirm": false,
+  "fakeProduct": "https://www.lazada.co.id/products/xiaomi-mi-band-2-hitam-i160040722-s181911845.html",
+  "target": [
+    {
+      "itemID": "406855876>449545179",
+      "itemURL": "",
+      "priceUnder": 5000000
+    },
+    {
+      "itemID": "406855876>449545179",
+      "itemURL": "",
+      "priceUnder": 5000000
+    }
+  ]
+}
