@@ -17,12 +17,3 @@
 		}
 	]
 }
-
-/*
-  mode :
-    - idle    	: menunggu perintah
-    - refresh 	: untuk menjaga agar selalu login
-    - prepare 	: jalankan semua instance untuk mengarah ke halaman fake produk
-    - order   	: untuk melakukan aktifitasi order / aktifkan komandan dan pasukan akan mengorder ketika komandna memerintah
-    - confirm	: semua instance akan mengkonfirmasi produk yang belum dibayar
-*/
